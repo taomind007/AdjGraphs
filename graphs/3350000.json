@@ -1,0 +1,2176 @@
+{
+    "5CBCGUe88qB4rx63znRKB9jncYk3txhayCfF4Dr7fjxiryDS": [
+        {
+            "neighbor": "5EEFwo4uU3YPxzVqPonuRJoGLp4SmkYSf51Y8y7VqBCg3Hvy",
+            "event": {
+                "coldkey_source": "5CBCGUe88qB4rx63znRKB9jncYk3txhayCfF4Dr7fjxiryDS",
+                "coldkey_destination": "5EEFwo4uU3YPxzVqPonuRJoGLp4SmkYSf51Y8y7VqBCg3Hvy",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 1008999999,
+                    "block_number": 3353550
+                }
+            }
+        }
+    ],
+    "5EEFwo4uU3YPxzVqPonuRJoGLp4SmkYSf51Y8y7VqBCg3Hvy": [
+        {
+            "neighbor": "5CBCGUe88qB4rx63znRKB9jncYk3txhayCfF4Dr7fjxiryDS",
+            "event": {
+                "coldkey_source": "5CBCGUe88qB4rx63znRKB9jncYk3txhayCfF4Dr7fjxiryDS",
+                "coldkey_destination": "5EEFwo4uU3YPxzVqPonuRJoGLp4SmkYSf51Y8y7VqBCg3Hvy",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 1008999999,
+                    "block_number": 3353550
+                }
+            }
+        }
+    ],
+    "5EMNp1rKeGj2qbRYkvCSPNF3uzDQaSWMQRJ8BiJdhh6PYWJK": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5EMNp1rKeGj2qbRYkvCSPNF3uzDQaSWMQRJ8BiJdhh6PYWJK",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 331129875440,
+                    "block_number": 3353562
+                }
+            }
+        }
+    ],
+    "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP": [
+        {
+            "neighbor": "5EMNp1rKeGj2qbRYkvCSPNF3uzDQaSWMQRJ8BiJdhh6PYWJK",
+            "event": {
+                "coldkey_source": "5EMNp1rKeGj2qbRYkvCSPNF3uzDQaSWMQRJ8BiJdhh6PYWJK",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 331129875440,
+                    "block_number": 3353562
+                }
+            }
+        },
+        {
+            "neighbor": "5DVsLTvGmUDT6hEp3P9RsLL95BgknJm3natm3EFijfkhrzkw",
+            "event": {
+                "coldkey_source": "5DVsLTvGmUDT6hEp3P9RsLL95BgknJm3natm3EFijfkhrzkw",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 207999575441,
+                    "block_number": 3353563
+                }
+            }
+        },
+        {
+            "neighbor": "5EUeYrY8exBVgDuDagzMRGQEUro3M4EQkaYt6WP48U62LLuo",
+            "event": {
+                "coldkey_source": "5EUeYrY8exBVgDuDagzMRGQEUro3M4EQkaYt6WP48U62LLuo",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 199999875440,
+                    "block_number": 3353563
+                }
+            }
+        },
+        {
+            "neighbor": "5C5XX78FPhMwXFd4ds9CJW2hYXcPXhc6XAVu1GoaUufm9ud2",
+            "event": {
+                "coldkey_source": "5C5XX78FPhMwXFd4ds9CJW2hYXcPXhc6XAVu1GoaUufm9ud2",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 199999875441,
+                    "block_number": 3353563
+                }
+            }
+        },
+        {
+            "neighbor": "5GzHb1s2jU3dAczjCKwujyoqJgz4ViYwTFmmkF99abJz4C9y",
+            "event": {
+                "coldkey_source": "5GzHb1s2jU3dAczjCKwujyoqJgz4ViYwTFmmkF99abJz4C9y",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 149999875441,
+                    "block_number": 3353564
+                }
+            }
+        },
+        {
+            "neighbor": "5Fr6v3yXLxksHgH9NNGzCDCZ762q6Zt4JLHx4266D1uQWCVa",
+            "event": {
+                "coldkey_source": "5Fr6v3yXLxksHgH9NNGzCDCZ762q6Zt4JLHx4266D1uQWCVa",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 143454875440,
+                    "block_number": 3353564
+                }
+            }
+        },
+        {
+            "neighbor": "5Dcj94mHgEiYqanyqRsbdpjAxjRAb1a38hBuuLs8DK1dLTMg",
+            "event": {
+                "coldkey_source": "5Dcj94mHgEiYqanyqRsbdpjAxjRAb1a38hBuuLs8DK1dLTMg",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 71203575440,
+                    "block_number": 3353564
+                }
+            }
+        },
+        {
+            "neighbor": "5GqMydo2o1uUu9AMQVxwfnt4z2Q8SkaSbeAZ3wePTw5AHnuQ",
+            "event": {
+                "coldkey_source": "5GqMydo2o1uUu9AMQVxwfnt4z2Q8SkaSbeAZ3wePTw5AHnuQ",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 70579699040,
+                    "block_number": 3353565
+                }
+            }
+        },
+        {
+            "neighbor": "5Dev9fekfVtPpQLDxPB3Z25kE7AGjSBBkoiuHmHXhUq8VApi",
+            "event": {
+                "coldkey_source": "5Dev9fekfVtPpQLDxPB3Z25kE7AGjSBBkoiuHmHXhUq8VApi",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 47399875441,
+                    "block_number": 3353565
+                }
+            }
+        },
+        {
+            "neighbor": "5CmvaYJeDLgiVnKMk4jbNnFLkwFBgDC1YxHnK8TLeSiZCMfT",
+            "event": {
+                "coldkey_source": "5CmvaYJeDLgiVnKMk4jbNnFLkwFBgDC1YxHnK8TLeSiZCMfT",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 31350875441,
+                    "block_number": 3353566
+                }
+            }
+        },
+        {
+            "neighbor": "5HDsvwGCsYLFr6zFXdh8xiEoiyRPZA8gvGer1ErPDzYKVwgG",
+            "event": {
+                "coldkey_source": "5HDsvwGCsYLFr6zFXdh8xiEoiyRPZA8gvGer1ErPDzYKVwgG",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 29989875441,
+                    "block_number": 3353567
+                }
+            }
+        },
+        {
+            "neighbor": "5D6stkgda6EzaEKVXeV2sXVd7RFvoHrocRkuRFX4PXcpNiT9",
+            "event": {
+                "coldkey_source": "5D6stkgda6EzaEKVXeV2sXVd7RFvoHrocRkuRFX4PXcpNiT9",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 29989875440,
+                    "block_number": 3353567
+                }
+            }
+        },
+        {
+            "neighbor": "5Gn6D1n1z2Ry3BJUfbb4XaKT7KcYJa7kWaVgrQcouRepNjij",
+            "event": {
+                "coldkey_source": "5Gn6D1n1z2Ry3BJUfbb4XaKT7KcYJa7kWaVgrQcouRepNjij",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 17882875441,
+                    "block_number": 3353568
+                }
+            }
+        },
+        {
+            "neighbor": "5EvUD4yMq8G8c6UXeLJHpe6a4hV163ftcybQGsRr2tHFbkp7",
+            "event": {
+                "coldkey_source": "5EvUD4yMq8G8c6UXeLJHpe6a4hV163ftcybQGsRr2tHFbkp7",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 17452875441,
+                    "block_number": 3353568
+                }
+            }
+        },
+        {
+            "neighbor": "5Dw36C6yBZXewGvsL4upbK4teE3vht9y3cbLgzeq9UDqtF6U",
+            "event": {
+                "coldkey_source": "5Dw36C6yBZXewGvsL4upbK4teE3vht9y3cbLgzeq9UDqtF6U",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 14994875440,
+                    "block_number": 3353568
+                }
+            }
+        },
+        {
+            "neighbor": "5ETvm2ypkhPxHqwasXMmWv6sY9MtB8bmz83sKxJFJoX2zdAy",
+            "event": {
+                "coldkey_source": "5ETvm2ypkhPxHqwasXMmWv6sY9MtB8bmz83sKxJFJoX2zdAy",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 11488049500,
+                    "block_number": 3353569
+                }
+            }
+        },
+        {
+            "neighbor": "5CaKVjhsp1ht2ZyEsxQQPMJxpgWReE8oz8Fqjbx5wWadUh5u",
+            "event": {
+                "coldkey_source": "5CaKVjhsp1ht2ZyEsxQQPMJxpgWReE8oz8Fqjbx5wWadUh5u",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 9999875441,
+                    "block_number": 3353569
+                }
+            }
+        },
+        {
+            "neighbor": "5EM63Govt6kCbJVhioBrsfVbU3vLETJD4evgqm5upqLWLXaC",
+            "event": {
+                "coldkey_source": "5EM63Govt6kCbJVhioBrsfVbU3vLETJD4evgqm5upqLWLXaC",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 8146931380,
+                    "block_number": 3353569
+                }
+            }
+        },
+        {
+            "neighbor": "5FYWQq4s5GrqhE44gbUgMWsR2ZWAKfcZXYNkzCHqjeqDSLoT",
+            "event": {
+                "coldkey_source": "5FYWQq4s5GrqhE44gbUgMWsR2ZWAKfcZXYNkzCHqjeqDSLoT",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 7999875442,
+                    "block_number": 3353570
+                }
+            }
+        },
+        {
+            "neighbor": "5FF8coB44rmsikvuebxpgo1LZ5obv7VALXzBDfcLELxhywYg",
+            "event": {
+                "coldkey_source": "5FF8coB44rmsikvuebxpgo1LZ5obv7VALXzBDfcLELxhywYg",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 2212350435,
+                    "block_number": 3353570
+                }
+            }
+        },
+        {
+            "neighbor": "5DtSearezEb8rRuR8B52atgKTKkeKnQeJk1f3QPCrDWBjPkS",
+            "event": {
+                "coldkey_source": "5DtSearezEb8rRuR8B52atgKTKkeKnQeJk1f3QPCrDWBjPkS",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 1799875442,
+                    "block_number": 3353570
+                }
+            }
+        },
+        {
+            "neighbor": "5EHy45dUJ4gnab35spr3qg9eXR9fDY6Q6HXew5tqqewDC73E",
+            "event": {
+                "coldkey_source": "5EHy45dUJ4gnab35spr3qg9eXR9fDY6Q6HXew5tqqewDC73E",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 1394279342,
+                    "block_number": 3353571
+                }
+            }
+        },
+        {
+            "neighbor": "5F6VLnSHwLaQhRoQay8Wg9b3yXjXim33ZJrKPcXDrrW8AhoR",
+            "event": {
+                "coldkey_source": "5F6VLnSHwLaQhRoQay8Wg9b3yXjXim33ZJrKPcXDrrW8AhoR",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 728845441,
+                    "block_number": 3353572
+                }
+            }
+        },
+        {
+            "neighbor": "5FvADaKLmXkgrDxhoN2MvSetV4SLfVbhTZzTr9xd5dtXMJHq",
+            "event": {
+                "coldkey_source": "5FvADaKLmXkgrDxhoN2MvSetV4SLfVbhTZzTr9xd5dtXMJHq",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 659875443,
+                    "block_number": 3353572
+                }
+            }
+        },
+        {
+            "neighbor": "5FsWP1GxpzT11xyFBojKpE75pzp54ESDA6BYbRMPJ2nsCZE5",
+            "event": {
+                "coldkey_source": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "coldkey_destination": "5FsWP1GxpzT11xyFBojKpE75pzp54ESDA6BYbRMPJ2nsCZE5",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 10109947388650,
+                    "block_number": 3353999
+                }
+            }
+        }
+    ],
+    "5DVsLTvGmUDT6hEp3P9RsLL95BgknJm3natm3EFijfkhrzkw": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5DVsLTvGmUDT6hEp3P9RsLL95BgknJm3natm3EFijfkhrzkw",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 207999575441,
+                    "block_number": 3353563
+                }
+            }
+        }
+    ],
+    "5EUeYrY8exBVgDuDagzMRGQEUro3M4EQkaYt6WP48U62LLuo": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5EUeYrY8exBVgDuDagzMRGQEUro3M4EQkaYt6WP48U62LLuo",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 199999875440,
+                    "block_number": 3353563
+                }
+            }
+        }
+    ],
+    "5C5XX78FPhMwXFd4ds9CJW2hYXcPXhc6XAVu1GoaUufm9ud2": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5C5XX78FPhMwXFd4ds9CJW2hYXcPXhc6XAVu1GoaUufm9ud2",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 199999875441,
+                    "block_number": 3353563
+                }
+            }
+        }
+    ],
+    "5GzHb1s2jU3dAczjCKwujyoqJgz4ViYwTFmmkF99abJz4C9y": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5GzHb1s2jU3dAczjCKwujyoqJgz4ViYwTFmmkF99abJz4C9y",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 149999875441,
+                    "block_number": 3353564
+                }
+            }
+        },
+        {
+            "neighbor": "5FjvZbR5Y3QYgpvtMcDSgs3gJQgjB1hT4CuYBPdF3HcRqiG1",
+            "event": {
+                "coldkey_source": "5FjvZbR5Y3QYgpvtMcDSgs3gJQgjB1hT4CuYBPdF3HcRqiG1",
+                "coldkey_destination": "5GzHb1s2jU3dAczjCKwujyoqJgz4ViYwTFmmkF99abJz4C9y",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 10000000000,
+                    "block_number": 3354719
+                }
+            }
+        }
+    ],
+    "5Fr6v3yXLxksHgH9NNGzCDCZ762q6Zt4JLHx4266D1uQWCVa": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5Fr6v3yXLxksHgH9NNGzCDCZ762q6Zt4JLHx4266D1uQWCVa",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 143454875440,
+                    "block_number": 3353564
+                }
+            }
+        }
+    ],
+    "5Dcj94mHgEiYqanyqRsbdpjAxjRAb1a38hBuuLs8DK1dLTMg": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5Dcj94mHgEiYqanyqRsbdpjAxjRAb1a38hBuuLs8DK1dLTMg",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 71203575440,
+                    "block_number": 3353564
+                }
+            }
+        }
+    ],
+    "5GqMydo2o1uUu9AMQVxwfnt4z2Q8SkaSbeAZ3wePTw5AHnuQ": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5GqMydo2o1uUu9AMQVxwfnt4z2Q8SkaSbeAZ3wePTw5AHnuQ",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 70579699040,
+                    "block_number": 3353565
+                }
+            }
+        }
+    ],
+    "5Dev9fekfVtPpQLDxPB3Z25kE7AGjSBBkoiuHmHXhUq8VApi": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5Dev9fekfVtPpQLDxPB3Z25kE7AGjSBBkoiuHmHXhUq8VApi",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 47399875441,
+                    "block_number": 3353565
+                }
+            }
+        }
+    ],
+    "5CmvaYJeDLgiVnKMk4jbNnFLkwFBgDC1YxHnK8TLeSiZCMfT": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5CmvaYJeDLgiVnKMk4jbNnFLkwFBgDC1YxHnK8TLeSiZCMfT",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 31350875441,
+                    "block_number": 3353566
+                }
+            }
+        }
+    ],
+    "5HDsvwGCsYLFr6zFXdh8xiEoiyRPZA8gvGer1ErPDzYKVwgG": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5HDsvwGCsYLFr6zFXdh8xiEoiyRPZA8gvGer1ErPDzYKVwgG",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 29989875441,
+                    "block_number": 3353567
+                }
+            }
+        }
+    ],
+    "5D6stkgda6EzaEKVXeV2sXVd7RFvoHrocRkuRFX4PXcpNiT9": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5D6stkgda6EzaEKVXeV2sXVd7RFvoHrocRkuRFX4PXcpNiT9",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 29989875440,
+                    "block_number": 3353567
+                }
+            }
+        }
+    ],
+    "5Gn6D1n1z2Ry3BJUfbb4XaKT7KcYJa7kWaVgrQcouRepNjij": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5Gn6D1n1z2Ry3BJUfbb4XaKT7KcYJa7kWaVgrQcouRepNjij",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 17882875441,
+                    "block_number": 3353568
+                }
+            }
+        }
+    ],
+    "5EvUD4yMq8G8c6UXeLJHpe6a4hV163ftcybQGsRr2tHFbkp7": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5EvUD4yMq8G8c6UXeLJHpe6a4hV163ftcybQGsRr2tHFbkp7",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 17452875441,
+                    "block_number": 3353568
+                }
+            }
+        }
+    ],
+    "5Dw36C6yBZXewGvsL4upbK4teE3vht9y3cbLgzeq9UDqtF6U": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5Dw36C6yBZXewGvsL4upbK4teE3vht9y3cbLgzeq9UDqtF6U",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 14994875440,
+                    "block_number": 3353568
+                }
+            }
+        }
+    ],
+    "5ETvm2ypkhPxHqwasXMmWv6sY9MtB8bmz83sKxJFJoX2zdAy": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5ETvm2ypkhPxHqwasXMmWv6sY9MtB8bmz83sKxJFJoX2zdAy",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 11488049500,
+                    "block_number": 3353569
+                }
+            }
+        }
+    ],
+    "5CaKVjhsp1ht2ZyEsxQQPMJxpgWReE8oz8Fqjbx5wWadUh5u": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5CaKVjhsp1ht2ZyEsxQQPMJxpgWReE8oz8Fqjbx5wWadUh5u",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 9999875441,
+                    "block_number": 3353569
+                }
+            }
+        }
+    ],
+    "5EM63Govt6kCbJVhioBrsfVbU3vLETJD4evgqm5upqLWLXaC": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5EM63Govt6kCbJVhioBrsfVbU3vLETJD4evgqm5upqLWLXaC",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 8146931380,
+                    "block_number": 3353569
+                }
+            }
+        }
+    ],
+    "5FYWQq4s5GrqhE44gbUgMWsR2ZWAKfcZXYNkzCHqjeqDSLoT": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5FYWQq4s5GrqhE44gbUgMWsR2ZWAKfcZXYNkzCHqjeqDSLoT",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 7999875442,
+                    "block_number": 3353570
+                }
+            }
+        }
+    ],
+    "5FF8coB44rmsikvuebxpgo1LZ5obv7VALXzBDfcLELxhywYg": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5FF8coB44rmsikvuebxpgo1LZ5obv7VALXzBDfcLELxhywYg",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 2212350435,
+                    "block_number": 3353570
+                }
+            }
+        }
+    ],
+    "5DtSearezEb8rRuR8B52atgKTKkeKnQeJk1f3QPCrDWBjPkS": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5DtSearezEb8rRuR8B52atgKTKkeKnQeJk1f3QPCrDWBjPkS",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 1799875442,
+                    "block_number": 3353570
+                }
+            }
+        }
+    ],
+    "5EHy45dUJ4gnab35spr3qg9eXR9fDY6Q6HXew5tqqewDC73E": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5EHy45dUJ4gnab35spr3qg9eXR9fDY6Q6HXew5tqqewDC73E",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 1394279342,
+                    "block_number": 3353571
+                }
+            }
+        }
+    ],
+    "5F6VLnSHwLaQhRoQay8Wg9b3yXjXim33ZJrKPcXDrrW8AhoR": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5F6VLnSHwLaQhRoQay8Wg9b3yXjXim33ZJrKPcXDrrW8AhoR",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 728845441,
+                    "block_number": 3353572
+                }
+            }
+        }
+    ],
+    "5FvADaKLmXkgrDxhoN2MvSetV4SLfVbhTZzTr9xd5dtXMJHq": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5FvADaKLmXkgrDxhoN2MvSetV4SLfVbhTZzTr9xd5dtXMJHq",
+                "coldkey_destination": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 659875443,
+                    "block_number": 3353572
+                }
+            }
+        }
+    ],
+    "5HowcgbVksvD9oUX9CuAFAw9QZtNLsk9ZZJerCnCUNhxmE81": [
+        {
+            "neighbor": "5G1KeLg1rda5kBZ9pWVnpAe3y4RwRRphcVxuY5mukLFStJhj",
+            "event": {
+                "coldkey_source": "5HowcgbVksvD9oUX9CuAFAw9QZtNLsk9ZZJerCnCUNhxmE81",
+                "coldkey_destination": "5G1KeLg1rda5kBZ9pWVnpAe3y4RwRRphcVxuY5mukLFStJhj",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 17000000,
+                    "delegate_hotkey_destination": "5DvTpiniW9s3APmHRYn8FroUWyfnLtrsid5Mtn5EwMXHN2ed",
+                    "block_number": 3353605
+                }
+            }
+        }
+    ],
+    "5G1KeLg1rda5kBZ9pWVnpAe3y4RwRRphcVxuY5mukLFStJhj": [
+        {
+            "neighbor": "5HowcgbVksvD9oUX9CuAFAw9QZtNLsk9ZZJerCnCUNhxmE81",
+            "event": {
+                "coldkey_source": "5HowcgbVksvD9oUX9CuAFAw9QZtNLsk9ZZJerCnCUNhxmE81",
+                "coldkey_destination": "5G1KeLg1rda5kBZ9pWVnpAe3y4RwRRphcVxuY5mukLFStJhj",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 17000000,
+                    "delegate_hotkey_destination": "5DvTpiniW9s3APmHRYn8FroUWyfnLtrsid5Mtn5EwMXHN2ed",
+                    "block_number": 3353605
+                }
+            }
+        },
+        {
+            "neighbor": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+            "event": {
+                "coldkey_destination": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+                "coldkey_source": "5G1KeLg1rda5kBZ9pWVnpAe3y4RwRRphcVxuY5mukLFStJhj",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 964196642,
+                    "delegate_hotkey_source": "5DvTpiniW9s3APmHRYn8FroUWyfnLtrsid5Mtn5EwMXHN2ed",
+                    "block_number": 3354062
+                }
+            }
+        },
+        {
+            "neighbor": "5EvnXAroR6mdSoZ6y3f9qQKSYfN9wBrpjiKNsZ4oLBpRiNxb",
+            "event": {
+                "coldkey_source": "5EvnXAroR6mdSoZ6y3f9qQKSYfN9wBrpjiKNsZ4oLBpRiNxb",
+                "coldkey_destination": "5G1KeLg1rda5kBZ9pWVnpAe3y4RwRRphcVxuY5mukLFStJhj",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 172914000,
+                    "delegate_hotkey_destination": "5DvTpiniW9s3APmHRYn8FroUWyfnLtrsid5Mtn5EwMXHN2ed",
+                    "block_number": 3354726
+                }
+            }
+        }
+    ],
+    "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM": [
+        {
+            "neighbor": "5CWxfdL34sVFjEHka7iQo1gPTSqwNmZkNyezo4hGe12LXSHT",
+            "event": {
+                "coldkey_destination": "5CWxfdL34sVFjEHka7iQo1gPTSqwNmZkNyezo4hGe12LXSHT",
+                "coldkey_source": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 3000000000,
+                    "delegate_hotkey_source": "5HNQURvmjjYhTSksi8Wfsw676b4owGwfLR2BFAQzG7H3HhYf",
+                    "block_number": 3353756
+                }
+            }
+        },
+        {
+            "neighbor": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+            "event": {
+                "coldkey_source": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+                "coldkey_destination": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 4360706823,
+                    "delegate_hotkey_destination": "5HNQURvmjjYhTSksi8Wfsw676b4owGwfLR2BFAQzG7H3HhYf",
+                    "block_number": 3354339
+                }
+            }
+        },
+        {
+            "neighbor": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+            "event": {
+                "coldkey_destination": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+                "coldkey_source": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 12782793,
+                    "delegate_hotkey_source": "5HEo565WAy4Dbq3Sv271SAi7syBSofyfhhwRNjFNSM2gP9M2",
+                    "block_number": 3354537
+                }
+            }
+        },
+        {
+            "neighbor": "5E9VQ4Z13Vkpc3MboTFdabCkoUtYpUKXhZayQJWaaxFUZcpt",
+            "event": {
+                "coldkey_source": "5E9VQ4Z13Vkpc3MboTFdabCkoUtYpUKXhZayQJWaaxFUZcpt",
+                "coldkey_destination": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 23616864463,
+                    "delegate_hotkey_destination": "5HNQURvmjjYhTSksi8Wfsw676b4owGwfLR2BFAQzG7H3HhYf",
+                    "block_number": 3354711
+                }
+            }
+        }
+    ],
+    "5CWxfdL34sVFjEHka7iQo1gPTSqwNmZkNyezo4hGe12LXSHT": [
+        {
+            "neighbor": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+            "event": {
+                "coldkey_destination": "5CWxfdL34sVFjEHka7iQo1gPTSqwNmZkNyezo4hGe12LXSHT",
+                "coldkey_source": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 3000000000,
+                    "delegate_hotkey_source": "5HNQURvmjjYhTSksi8Wfsw676b4owGwfLR2BFAQzG7H3HhYf",
+                    "block_number": 3353756
+                }
+            }
+        }
+    ],
+    "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ": [
+        {
+            "neighbor": "5DcM61FcbJGfWezph2pp795q6mvPF5P7BvhFSmu44Qh1ayMb",
+            "event": {
+                "coldkey_destination": "5DcM61FcbJGfWezph2pp795q6mvPF5P7BvhFSmu44Qh1ayMb",
+                "coldkey_source": "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 15307624351,
+                    "delegate_hotkey_source": "5FFApaS75bv5pJHfAp2FVLBj9ZaXuFDjEypsaBNc1wCfe52v",
+                    "block_number": 3353784
+                }
+            }
+        },
+        {
+            "neighbor": "5EWfPv7Dv3vrxFkA4R5VVTrMnZEbcQ8fJ6834R1s4NPCQBm9",
+            "event": {
+                "coldkey_source": "5EWfPv7Dv3vrxFkA4R5VVTrMnZEbcQ8fJ6834R1s4NPCQBm9",
+                "coldkey_destination": "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 21624197061,
+                    "delegate_hotkey_destination": "5FFApaS75bv5pJHfAp2FVLBj9ZaXuFDjEypsaBNc1wCfe52v",
+                    "block_number": 3354125
+                }
+            }
+        },
+        {
+            "neighbor": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+            "event": {
+                "coldkey_destination": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+                "coldkey_source": "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 1000000000,
+                    "delegate_hotkey_source": "5FFApaS75bv5pJHfAp2FVLBj9ZaXuFDjEypsaBNc1wCfe52v",
+                    "block_number": 3354503
+                }
+            }
+        },
+        {
+            "neighbor": "5FjvZbR5Y3QYgpvtMcDSgs3gJQgjB1hT4CuYBPdF3HcRqiG1",
+            "event": {
+                "coldkey_source": "5FjvZbR5Y3QYgpvtMcDSgs3gJQgjB1hT4CuYBPdF3HcRqiG1",
+                "coldkey_destination": "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 24999999000,
+                    "delegate_hotkey_destination": "5FFApaS75bv5pJHfAp2FVLBj9ZaXuFDjEypsaBNc1wCfe52v",
+                    "block_number": 3354668
+                }
+            }
+        }
+    ],
+    "5DcM61FcbJGfWezph2pp795q6mvPF5P7BvhFSmu44Qh1ayMb": [
+        {
+            "neighbor": "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ",
+            "event": {
+                "coldkey_destination": "5DcM61FcbJGfWezph2pp795q6mvPF5P7BvhFSmu44Qh1ayMb",
+                "coldkey_source": "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 15307624351,
+                    "delegate_hotkey_source": "5FFApaS75bv5pJHfAp2FVLBj9ZaXuFDjEypsaBNc1wCfe52v",
+                    "block_number": 3353784
+                }
+            }
+        }
+    ],
+    "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k": [
+        {
+            "neighbor": "5HYu6eULpkaJWmkAa5NajifEa5Y2YSMmC6RRJJhe25cySkGj",
+            "event": {
+                "coldkey_destination": "5HYu6eULpkaJWmkAa5NajifEa5Y2YSMmC6RRJJhe25cySkGj",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 1000000000,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3353840
+                }
+            }
+        },
+        {
+            "neighbor": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+            "event": {
+                "coldkey_destination": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 825654365,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3354037
+                }
+            }
+        },
+        {
+            "neighbor": "5EWfPv7Dv3vrxFkA4R5VVTrMnZEbcQ8fJ6834R1s4NPCQBm9",
+            "event": {
+                "coldkey_destination": "5EWfPv7Dv3vrxFkA4R5VVTrMnZEbcQ8fJ6834R1s4NPCQBm9",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 21623849344,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3354095
+                }
+            }
+        },
+        {
+            "neighbor": "5DLGk9K9vgmRwS1PpGXnxJGZonF1BybfWyGzSTbQZ3BbRPCc",
+            "event": {
+                "coldkey_destination": "5DLGk9K9vgmRwS1PpGXnxJGZonF1BybfWyGzSTbQZ3BbRPCc",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 2000000000,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3354169
+                }
+            }
+        },
+        {
+            "neighbor": "5DRPWJEmP4NHpgbaGmQC9ofGE6s5694gRQuvsi7u6V6qx2x7",
+            "event": {
+                "coldkey_destination": "5DRPWJEmP4NHpgbaGmQC9ofGE6s5694gRQuvsi7u6V6qx2x7",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 632041899,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3354387
+                }
+            }
+        },
+        {
+            "neighbor": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+            "event": {
+                "coldkey_destination": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 14005584,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3354529
+                }
+            }
+        },
+        {
+            "neighbor": "5FyXRntezGitmDsPtUyAa6uYSDtgzsXZiUGfcXFiDN7abAoy",
+            "event": {
+                "coldkey_destination": "5FyXRntezGitmDsPtUyAa6uYSDtgzsXZiUGfcXFiDN7abAoy",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 265000000,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3354793
+                }
+            }
+        }
+    ],
+    "5HYu6eULpkaJWmkAa5NajifEa5Y2YSMmC6RRJJhe25cySkGj": [
+        {
+            "neighbor": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+            "event": {
+                "coldkey_destination": "5HYu6eULpkaJWmkAa5NajifEa5Y2YSMmC6RRJJhe25cySkGj",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 1000000000,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3353840
+                }
+            }
+        }
+    ],
+    "5HCBVZ3PhHRPnGdvgiQ17uU6y692YjMxiuDUhRdTL39xYUf3": [
+        {
+            "neighbor": "5HNEheHMipyfrJGfYnKgCfvGsoJnZS2BXQjNz5299jGWZhwg",
+            "event": {
+                "coldkey_source": "5HCBVZ3PhHRPnGdvgiQ17uU6y692YjMxiuDUhRdTL39xYUf3",
+                "coldkey_destination": "5HNEheHMipyfrJGfYnKgCfvGsoJnZS2BXQjNz5299jGWZhwg",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 22242022,
+                    "delegate_hotkey_destination": "5HK5tp6t2S59DywmHRWPBVJeJ86T61KjurYqeooqj8sREpeN",
+                    "block_number": 3353858
+                }
+            }
+        }
+    ],
+    "5HNEheHMipyfrJGfYnKgCfvGsoJnZS2BXQjNz5299jGWZhwg": [
+        {
+            "neighbor": "5HCBVZ3PhHRPnGdvgiQ17uU6y692YjMxiuDUhRdTL39xYUf3",
+            "event": {
+                "coldkey_source": "5HCBVZ3PhHRPnGdvgiQ17uU6y692YjMxiuDUhRdTL39xYUf3",
+                "coldkey_destination": "5HNEheHMipyfrJGfYnKgCfvGsoJnZS2BXQjNz5299jGWZhwg",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 22242022,
+                    "delegate_hotkey_destination": "5HK5tp6t2S59DywmHRWPBVJeJ86T61KjurYqeooqj8sREpeN",
+                    "block_number": 3353858
+                }
+            }
+        },
+        {
+            "neighbor": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+            "event": {
+                "coldkey_destination": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+                "coldkey_source": "5HNEheHMipyfrJGfYnKgCfvGsoJnZS2BXQjNz5299jGWZhwg",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 978008687,
+                    "delegate_hotkey_source": "5HK5tp6t2S59DywmHRWPBVJeJ86T61KjurYqeooqj8sREpeN",
+                    "block_number": 3354069
+                }
+            }
+        },
+        {
+            "neighbor": "5HEYSn2gXjsPWdAo4RxkGYgSvAavnYSDa1oXdmLyCJeaHUSH",
+            "event": {
+                "coldkey_source": "5HEYSn2gXjsPWdAo4RxkGYgSvAavnYSDa1oXdmLyCJeaHUSH",
+                "coldkey_destination": "5HNEheHMipyfrJGfYnKgCfvGsoJnZS2BXQjNz5299jGWZhwg",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 3099689633,
+                    "delegate_hotkey_destination": "5HK5tp6t2S59DywmHRWPBVJeJ86T61KjurYqeooqj8sREpeN",
+                    "block_number": 3354453
+                }
+            }
+        }
+    ],
+    "5FZHUwwMuue3uVGapbm7UN6exVjfaUufZ4qTeaCvdXNcc4CA": [
+        {
+            "neighbor": "5EJAqczgzCMvWcmXhKMZH4vMS5gPy8BjeuHjz5o5yN6RYzX2",
+            "event": {
+                "coldkey_source": "5FZHUwwMuue3uVGapbm7UN6exVjfaUufZ4qTeaCvdXNcc4CA",
+                "coldkey_destination": "5EJAqczgzCMvWcmXhKMZH4vMS5gPy8BjeuHjz5o5yN6RYzX2",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 1999700000,
+                    "delegate_hotkey_destination": "5CsvRJXuR955WojnGMdok1hbhffZyB4N5ocrv82f3p5A2zVp",
+                    "block_number": 3353990
+                }
+            }
+        }
+    ],
+    "5EJAqczgzCMvWcmXhKMZH4vMS5gPy8BjeuHjz5o5yN6RYzX2": [
+        {
+            "neighbor": "5FZHUwwMuue3uVGapbm7UN6exVjfaUufZ4qTeaCvdXNcc4CA",
+            "event": {
+                "coldkey_source": "5FZHUwwMuue3uVGapbm7UN6exVjfaUufZ4qTeaCvdXNcc4CA",
+                "coldkey_destination": "5EJAqczgzCMvWcmXhKMZH4vMS5gPy8BjeuHjz5o5yN6RYzX2",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 1999700000,
+                    "delegate_hotkey_destination": "5CsvRJXuR955WojnGMdok1hbhffZyB4N5ocrv82f3p5A2zVp",
+                    "block_number": 3353990
+                }
+            }
+        },
+        {
+            "neighbor": "5DevCZGyUuCHdt3ziLkMsASTJSxQHzoUCsrBR2RKdcLUEHsC",
+            "event": {
+                "coldkey_destination": "5DevCZGyUuCHdt3ziLkMsASTJSxQHzoUCsrBR2RKdcLUEHsC",
+                "coldkey_source": "5EJAqczgzCMvWcmXhKMZH4vMS5gPy8BjeuHjz5o5yN6RYzX2",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 1000000000,
+                    "delegate_hotkey_source": "5CsvRJXuR955WojnGMdok1hbhffZyB4N5ocrv82f3p5A2zVp",
+                    "block_number": 3354265
+                }
+            }
+        }
+    ],
+    "5FsWP1GxpzT11xyFBojKpE75pzp54ESDA6BYbRMPJ2nsCZE5": [
+        {
+            "neighbor": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+            "event": {
+                "coldkey_source": "5CNChyk2fnVgVSZDLAVVFb4QBTMGm6WfuQvseBG6hj8xWzKP",
+                "coldkey_destination": "5FsWP1GxpzT11xyFBojKpE75pzp54ESDA6BYbRMPJ2nsCZE5",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 10109947388650,
+                    "block_number": 3353999
+                }
+            }
+        }
+    ],
+    "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV": [
+        {
+            "neighbor": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+            "event": {
+                "coldkey_destination": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 825654365,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3354037
+                }
+            }
+        },
+        {
+            "neighbor": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+            "event": {
+                "coldkey_destination": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+                "coldkey_source": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 592441085,
+                    "delegate_hotkey_source": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354045
+                }
+            }
+        },
+        {
+            "neighbor": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+            "event": {
+                "coldkey_destination": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+                "coldkey_source": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 963775832,
+                    "delegate_hotkey_source": "5EhvL1FVkQPpMjZX4MAADcW42i3xPSF1KiCpuaxTYVr28sux",
+                    "block_number": 3354055
+                }
+            }
+        },
+        {
+            "neighbor": "5G1KeLg1rda5kBZ9pWVnpAe3y4RwRRphcVxuY5mukLFStJhj",
+            "event": {
+                "coldkey_destination": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+                "coldkey_source": "5G1KeLg1rda5kBZ9pWVnpAe3y4RwRRphcVxuY5mukLFStJhj",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 964196642,
+                    "delegate_hotkey_source": "5DvTpiniW9s3APmHRYn8FroUWyfnLtrsid5Mtn5EwMXHN2ed",
+                    "block_number": 3354062
+                }
+            }
+        },
+        {
+            "neighbor": "5HNEheHMipyfrJGfYnKgCfvGsoJnZS2BXQjNz5299jGWZhwg",
+            "event": {
+                "coldkey_destination": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+                "coldkey_source": "5HNEheHMipyfrJGfYnKgCfvGsoJnZS2BXQjNz5299jGWZhwg",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 978008687,
+                    "delegate_hotkey_source": "5HK5tp6t2S59DywmHRWPBVJeJ86T61KjurYqeooqj8sREpeN",
+                    "block_number": 3354069
+                }
+            }
+        },
+        {
+            "neighbor": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+            "event": {
+                "coldkey_source": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+                "coldkey_destination": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 4360706823,
+                    "delegate_hotkey_destination": "5HNQURvmjjYhTSksi8Wfsw676b4owGwfLR2BFAQzG7H3HhYf",
+                    "block_number": 3354339
+                }
+            }
+        }
+    ],
+    "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy": [
+        {
+            "neighbor": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+            "event": {
+                "coldkey_destination": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+                "coldkey_source": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 592441085,
+                    "delegate_hotkey_source": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354045
+                }
+            }
+        },
+        {
+            "neighbor": "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT",
+            "event": {
+                "coldkey_destination": "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT",
+                "coldkey_source": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 223603693,
+                    "delegate_hotkey_source": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354082
+                }
+            }
+        },
+        {
+            "neighbor": "5HGTyMpo3fvu7HfqySSHkgLZvLfQRArN5te6QicnYu3VKwgM",
+            "event": {
+                "coldkey_destination": "5HGTyMpo3fvu7HfqySSHkgLZvLfQRArN5te6QicnYu3VKwgM",
+                "coldkey_source": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 88797863,
+                    "delegate_hotkey_source": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354240
+                }
+            }
+        },
+        {
+            "neighbor": "5G7MoKZzMHAKXKnNG7QScfYDPbkfyzRj2CgDia6oGnTy1L5a",
+            "event": {
+                "coldkey_source": "5G7MoKZzMHAKXKnNG7QScfYDPbkfyzRj2CgDia6oGnTy1L5a",
+                "coldkey_destination": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 223466600,
+                    "delegate_hotkey_destination": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354306
+                }
+            }
+        },
+        {
+            "neighbor": "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT",
+            "event": {
+                "coldkey_destination": "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT",
+                "coldkey_source": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 1000021118,
+                    "delegate_hotkey_source": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354443
+                }
+            }
+        },
+        {
+            "neighbor": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+            "event": {
+                "coldkey_destination": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+                "coldkey_source": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 17202145,
+                    "delegate_hotkey_source": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354520
+                }
+            }
+        },
+        {
+            "neighbor": "5FKWsPkP77qVfHL7rEVfdDJ9aadut8BeKnsZUhW311UUMxhL",
+            "event": {
+                "coldkey_source": "5FKWsPkP77qVfHL7rEVfdDJ9aadut8BeKnsZUhW311UUMxhL",
+                "coldkey_destination": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 3496250990,
+                    "delegate_hotkey_destination": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354681
+                }
+            }
+        },
+        {
+            "neighbor": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+            "event": {
+                "coldkey_source": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+                "coldkey_destination": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 998975442,
+                    "delegate_hotkey_destination": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354762
+                }
+            }
+        }
+    ],
+    "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV": [
+        {
+            "neighbor": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+            "event": {
+                "coldkey_destination": "5HBo7S1PVGaLqMLHyfHJjZ6SkAEZE8uutwvq3HqbTwoEyRhV",
+                "coldkey_source": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 963775832,
+                    "delegate_hotkey_source": "5EhvL1FVkQPpMjZX4MAADcW42i3xPSF1KiCpuaxTYVr28sux",
+                    "block_number": 3354055
+                }
+            }
+        },
+        {
+            "neighbor": "5Fe6NG3eMMpAW9wXSNi6RfBUG9sMLZ5uf6Jarjd8jYit3ogn",
+            "event": {
+                "coldkey_destination": "5Fe6NG3eMMpAW9wXSNi6RfBUG9sMLZ5uf6Jarjd8jYit3ogn",
+                "coldkey_source": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 565527310402,
+                    "delegate_hotkey_source": "5EhvL1FVkQPpMjZX4MAADcW42i3xPSF1KiCpuaxTYVr28sux",
+                    "block_number": 3354173
+                }
+            }
+        },
+        {
+            "neighbor": "5CJ2LsWg3aCKbALtgjf97jp7ijFNCdaJLo95NiMeAaqv5RAj",
+            "event": {
+                "coldkey_destination": "5CJ2LsWg3aCKbALtgjf97jp7ijFNCdaJLo95NiMeAaqv5RAj",
+                "coldkey_source": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 12000000000,
+                    "delegate_hotkey_source": "5EhvL1FVkQPpMjZX4MAADcW42i3xPSF1KiCpuaxTYVr28sux",
+                    "block_number": 3354305
+                }
+            }
+        },
+        {
+            "neighbor": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+            "event": {
+                "coldkey_destination": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+                "coldkey_source": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 16617539,
+                    "delegate_hotkey_source": "5EhvL1FVkQPpMjZX4MAADcW42i3xPSF1KiCpuaxTYVr28sux",
+                    "block_number": 3354524
+                }
+            }
+        },
+        {
+            "neighbor": "5FRYkSmfxnhR5MwmveD15rjSzDmhC6w95gmHhm6t7sa7xo5u",
+            "event": {
+                "coldkey_destination": "5FRYkSmfxnhR5MwmveD15rjSzDmhC6w95gmHhm6t7sa7xo5u",
+                "coldkey_source": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 100000000,
+                    "delegate_hotkey_source": "5EhvL1FVkQPpMjZX4MAADcW42i3xPSF1KiCpuaxTYVr28sux",
+                    "block_number": 3354580
+                }
+            }
+        }
+    ],
+    "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT": [
+        {
+            "neighbor": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+            "event": {
+                "coldkey_destination": "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT",
+                "coldkey_source": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 223603693,
+                    "delegate_hotkey_source": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354082
+                }
+            }
+        },
+        {
+            "neighbor": "5G7MoKZzMHAKXKnNG7QScfYDPbkfyzRj2CgDia6oGnTy1L5a",
+            "event": {
+                "coldkey_source": "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT",
+                "coldkey_destination": "5G7MoKZzMHAKXKnNG7QScfYDPbkfyzRj2CgDia6oGnTy1L5a",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 223467100,
+                    "block_number": 3354293
+                }
+            }
+        },
+        {
+            "neighbor": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+            "event": {
+                "coldkey_destination": "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT",
+                "coldkey_source": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 1000021118,
+                    "delegate_hotkey_source": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354443
+                }
+            }
+        },
+        {
+            "neighbor": "5G7MoKZzMHAKXKnNG7QScfYDPbkfyzRj2CgDia6oGnTy1L5a",
+            "event": {
+                "coldkey_source": "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT",
+                "coldkey_destination": "5G7MoKZzMHAKXKnNG7QScfYDPbkfyzRj2CgDia6oGnTy1L5a",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 999896600,
+                    "block_number": 3354469
+                }
+            }
+        }
+    ],
+    "5EWfPv7Dv3vrxFkA4R5VVTrMnZEbcQ8fJ6834R1s4NPCQBm9": [
+        {
+            "neighbor": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+            "event": {
+                "coldkey_destination": "5EWfPv7Dv3vrxFkA4R5VVTrMnZEbcQ8fJ6834R1s4NPCQBm9",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 21623849344,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3354095
+                }
+            }
+        },
+        {
+            "neighbor": "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ",
+            "event": {
+                "coldkey_source": "5EWfPv7Dv3vrxFkA4R5VVTrMnZEbcQ8fJ6834R1s4NPCQBm9",
+                "coldkey_destination": "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 21624197061,
+                    "delegate_hotkey_destination": "5FFApaS75bv5pJHfAp2FVLBj9ZaXuFDjEypsaBNc1wCfe52v",
+                    "block_number": 3354125
+                }
+            }
+        }
+    ],
+    "5DLGk9K9vgmRwS1PpGXnxJGZonF1BybfWyGzSTbQZ3BbRPCc": [
+        {
+            "neighbor": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+            "event": {
+                "coldkey_destination": "5DLGk9K9vgmRwS1PpGXnxJGZonF1BybfWyGzSTbQZ3BbRPCc",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 2000000000,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3354169
+                }
+            }
+        }
+    ],
+    "5Fe6NG3eMMpAW9wXSNi6RfBUG9sMLZ5uf6Jarjd8jYit3ogn": [
+        {
+            "neighbor": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+            "event": {
+                "coldkey_destination": "5Fe6NG3eMMpAW9wXSNi6RfBUG9sMLZ5uf6Jarjd8jYit3ogn",
+                "coldkey_source": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 565527310402,
+                    "delegate_hotkey_source": "5EhvL1FVkQPpMjZX4MAADcW42i3xPSF1KiCpuaxTYVr28sux",
+                    "block_number": 3354173
+                }
+            }
+        },
+        {
+            "neighbor": "5DiD8mWnBpPzAgTRmRWhZdjsxDFuKm3FwBYjyPxqBUrBZAkW",
+            "event": {
+                "coldkey_source": "5Fe6NG3eMMpAW9wXSNi6RfBUG9sMLZ5uf6Jarjd8jYit3ogn",
+                "coldkey_destination": "5DiD8mWnBpPzAgTRmRWhZdjsxDFuKm3FwBYjyPxqBUrBZAkW",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 565590000000,
+                    "block_number": 3354190
+                }
+            }
+        }
+    ],
+    "5DiD8mWnBpPzAgTRmRWhZdjsxDFuKm3FwBYjyPxqBUrBZAkW": [
+        {
+            "neighbor": "5Fe6NG3eMMpAW9wXSNi6RfBUG9sMLZ5uf6Jarjd8jYit3ogn",
+            "event": {
+                "coldkey_source": "5Fe6NG3eMMpAW9wXSNi6RfBUG9sMLZ5uf6Jarjd8jYit3ogn",
+                "coldkey_destination": "5DiD8mWnBpPzAgTRmRWhZdjsxDFuKm3FwBYjyPxqBUrBZAkW",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 565590000000,
+                    "block_number": 3354190
+                }
+            }
+        }
+    ],
+    "5HGTyMpo3fvu7HfqySSHkgLZvLfQRArN5te6QicnYu3VKwgM": [
+        {
+            "neighbor": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+            "event": {
+                "coldkey_destination": "5HGTyMpo3fvu7HfqySSHkgLZvLfQRArN5te6QicnYu3VKwgM",
+                "coldkey_source": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 88797863,
+                    "delegate_hotkey_source": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354240
+                }
+            }
+        }
+    ],
+    "5DevCZGyUuCHdt3ziLkMsASTJSxQHzoUCsrBR2RKdcLUEHsC": [
+        {
+            "neighbor": "5EJAqczgzCMvWcmXhKMZH4vMS5gPy8BjeuHjz5o5yN6RYzX2",
+            "event": {
+                "coldkey_destination": "5DevCZGyUuCHdt3ziLkMsASTJSxQHzoUCsrBR2RKdcLUEHsC",
+                "coldkey_source": "5EJAqczgzCMvWcmXhKMZH4vMS5gPy8BjeuHjz5o5yN6RYzX2",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 1000000000,
+                    "delegate_hotkey_source": "5CsvRJXuR955WojnGMdok1hbhffZyB4N5ocrv82f3p5A2zVp",
+                    "block_number": 3354265
+                }
+            }
+        }
+    ],
+    "5G7MoKZzMHAKXKnNG7QScfYDPbkfyzRj2CgDia6oGnTy1L5a": [
+        {
+            "neighbor": "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT",
+            "event": {
+                "coldkey_source": "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT",
+                "coldkey_destination": "5G7MoKZzMHAKXKnNG7QScfYDPbkfyzRj2CgDia6oGnTy1L5a",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 223467100,
+                    "block_number": 3354293
+                }
+            }
+        },
+        {
+            "neighbor": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+            "event": {
+                "coldkey_source": "5G7MoKZzMHAKXKnNG7QScfYDPbkfyzRj2CgDia6oGnTy1L5a",
+                "coldkey_destination": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 223466600,
+                    "delegate_hotkey_destination": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354306
+                }
+            }
+        },
+        {
+            "neighbor": "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT",
+            "event": {
+                "coldkey_source": "5E7EjuJehTHGdvXoTR8TmMQHPruSmjMbPMohLP8FzdzgX5HT",
+                "coldkey_destination": "5G7MoKZzMHAKXKnNG7QScfYDPbkfyzRj2CgDia6oGnTy1L5a",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 999896600,
+                    "block_number": 3354469
+                }
+            }
+        }
+    ],
+    "5CJ2LsWg3aCKbALtgjf97jp7ijFNCdaJLo95NiMeAaqv5RAj": [
+        {
+            "neighbor": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+            "event": {
+                "coldkey_destination": "5CJ2LsWg3aCKbALtgjf97jp7ijFNCdaJLo95NiMeAaqv5RAj",
+                "coldkey_source": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 12000000000,
+                    "delegate_hotkey_source": "5EhvL1FVkQPpMjZX4MAADcW42i3xPSF1KiCpuaxTYVr28sux",
+                    "block_number": 3354305
+                }
+            }
+        }
+    ],
+    "5DRPWJEmP4NHpgbaGmQC9ofGE6s5694gRQuvsi7u6V6qx2x7": [
+        {
+            "neighbor": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+            "event": {
+                "coldkey_destination": "5DRPWJEmP4NHpgbaGmQC9ofGE6s5694gRQuvsi7u6V6qx2x7",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 632041899,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3354387
+                }
+            }
+        }
+    ],
+    "5HEYSn2gXjsPWdAo4RxkGYgSvAavnYSDa1oXdmLyCJeaHUSH": [
+        {
+            "neighbor": "5HNEheHMipyfrJGfYnKgCfvGsoJnZS2BXQjNz5299jGWZhwg",
+            "event": {
+                "coldkey_source": "5HEYSn2gXjsPWdAo4RxkGYgSvAavnYSDa1oXdmLyCJeaHUSH",
+                "coldkey_destination": "5HNEheHMipyfrJGfYnKgCfvGsoJnZS2BXQjNz5299jGWZhwg",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 3099689633,
+                    "delegate_hotkey_destination": "5HK5tp6t2S59DywmHRWPBVJeJ86T61KjurYqeooqj8sREpeN",
+                    "block_number": 3354453
+                }
+            }
+        }
+    ],
+    "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W": [
+        {
+            "neighbor": "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ",
+            "event": {
+                "coldkey_destination": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+                "coldkey_source": "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 1000000000,
+                    "delegate_hotkey_source": "5FFApaS75bv5pJHfAp2FVLBj9ZaXuFDjEypsaBNc1wCfe52v",
+                    "block_number": 3354503
+                }
+            }
+        },
+        {
+            "neighbor": "5DEuVCyU9CsSoDVL4WZ2Y3NzHrUEQUfUfGFMwxx98UEjXrb4",
+            "event": {
+                "coldkey_source": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+                "coldkey_destination": "5DEuVCyU9CsSoDVL4WZ2Y3NzHrUEQUfUfGFMwxx98UEjXrb4",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 999000000,
+                    "block_number": 3354515
+                }
+            }
+        },
+        {
+            "neighbor": "5DEuVCyU9CsSoDVL4WZ2Y3NzHrUEQUfUfGFMwxx98UEjXrb4",
+            "event": {
+                "coldkey_source": "5DEuVCyU9CsSoDVL4WZ2Y3NzHrUEQUfUfGFMwxx98UEjXrb4",
+                "coldkey_destination": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 500000000,
+                    "block_number": 3354541
+                }
+            }
+        },
+        {
+            "neighbor": "5DEuVCyU9CsSoDVL4WZ2Y3NzHrUEQUfUfGFMwxx98UEjXrb4",
+            "event": {
+                "coldkey_source": "5DEuVCyU9CsSoDVL4WZ2Y3NzHrUEQUfUfGFMwxx98UEjXrb4",
+                "coldkey_destination": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 498100000,
+                    "block_number": 3354608
+                }
+            }
+        },
+        {
+            "neighbor": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+            "event": {
+                "coldkey_source": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+                "coldkey_destination": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 998975442,
+                    "delegate_hotkey_destination": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354762
+                }
+            }
+        }
+    ],
+    "5DEuVCyU9CsSoDVL4WZ2Y3NzHrUEQUfUfGFMwxx98UEjXrb4": [
+        {
+            "neighbor": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+            "event": {
+                "coldkey_source": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+                "coldkey_destination": "5DEuVCyU9CsSoDVL4WZ2Y3NzHrUEQUfUfGFMwxx98UEjXrb4",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 999000000,
+                    "block_number": 3354515
+                }
+            }
+        },
+        {
+            "neighbor": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+            "event": {
+                "coldkey_source": "5DEuVCyU9CsSoDVL4WZ2Y3NzHrUEQUfUfGFMwxx98UEjXrb4",
+                "coldkey_destination": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 500000000,
+                    "block_number": 3354541
+                }
+            }
+        },
+        {
+            "neighbor": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+            "event": {
+                "coldkey_source": "5DEuVCyU9CsSoDVL4WZ2Y3NzHrUEQUfUfGFMwxx98UEjXrb4",
+                "coldkey_destination": "5DVGCgkZnnwANzboVZJ1gt883FZCPXCUbemFYC2iN79RLu8W",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 498100000,
+                    "block_number": 3354608
+                }
+            }
+        }
+    ],
+    "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu": [
+        {
+            "neighbor": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+            "event": {
+                "coldkey_destination": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+                "coldkey_source": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 17202145,
+                    "delegate_hotkey_source": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354520
+                }
+            }
+        },
+        {
+            "neighbor": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+            "event": {
+                "coldkey_destination": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+                "coldkey_source": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 16617539,
+                    "delegate_hotkey_source": "5EhvL1FVkQPpMjZX4MAADcW42i3xPSF1KiCpuaxTYVr28sux",
+                    "block_number": 3354524
+                }
+            }
+        },
+        {
+            "neighbor": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+            "event": {
+                "coldkey_destination": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 14005584,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3354529
+                }
+            }
+        },
+        {
+            "neighbor": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+            "event": {
+                "coldkey_destination": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+                "coldkey_source": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 12782793,
+                    "delegate_hotkey_source": "5HEo565WAy4Dbq3Sv271SAi7syBSofyfhhwRNjFNSM2gP9M2",
+                    "block_number": 3354537
+                }
+            }
+        },
+        {
+            "neighbor": "5GRPcZ7L6cmCshSTiHPUUHFWFP8Go9gt6ndZZerF1R4fx7AZ",
+            "event": {
+                "coldkey_source": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+                "coldkey_destination": "5GRPcZ7L6cmCshSTiHPUUHFWFP8Go9gt6ndZZerF1R4fx7AZ",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 60000000,
+                    "delegate_hotkey_destination": "5HeKSHGdsRCwVgyrHchijnZJnq4wiv6GqoDLNah8R5WMfnLB",
+                    "block_number": 3354549
+                }
+            }
+        }
+    ],
+    "5GRPcZ7L6cmCshSTiHPUUHFWFP8Go9gt6ndZZerF1R4fx7AZ": [
+        {
+            "neighbor": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+            "event": {
+                "coldkey_source": "5DHYQYKzL1otAZpf7vwEFnh8KUNT58UquZrLCPYavamtUSuu",
+                "coldkey_destination": "5GRPcZ7L6cmCshSTiHPUUHFWFP8Go9gt6ndZZerF1R4fx7AZ",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 60000000,
+                    "delegate_hotkey_destination": "5HeKSHGdsRCwVgyrHchijnZJnq4wiv6GqoDLNah8R5WMfnLB",
+                    "block_number": 3354549
+                }
+            }
+        }
+    ],
+    "5FRYkSmfxnhR5MwmveD15rjSzDmhC6w95gmHhm6t7sa7xo5u": [
+        {
+            "neighbor": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+            "event": {
+                "coldkey_destination": "5FRYkSmfxnhR5MwmveD15rjSzDmhC6w95gmHhm6t7sa7xo5u",
+                "coldkey_source": "5HHS55o12rsvH5cKdAYzFW1bsPiQPPctcC8pcJLBHZbZnpHV",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 100000000,
+                    "delegate_hotkey_source": "5EhvL1FVkQPpMjZX4MAADcW42i3xPSF1KiCpuaxTYVr28sux",
+                    "block_number": 3354580
+                }
+            }
+        }
+    ],
+    "5DHejjQuintpUWx7uNp9881XnuroEQyWhGEJLSrRxhr3H2SU": [
+        {
+            "neighbor": "5CMEwRYLefRmtJg7zzRyJtcXrQqmspr9B1r1nKySDReA37Z1",
+            "event": {
+                "coldkey_source": "5DHejjQuintpUWx7uNp9881XnuroEQyWhGEJLSrRxhr3H2SU",
+                "coldkey_destination": "5CMEwRYLefRmtJg7zzRyJtcXrQqmspr9B1r1nKySDReA37Z1",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 1084260196,
+                    "delegate_hotkey_destination": "5CXRfP2ekFhe62r7q3vppRajJmGhTi7vwvb2yr79jveZ282w",
+                    "block_number": 3354586
+                }
+            }
+        }
+    ],
+    "5CMEwRYLefRmtJg7zzRyJtcXrQqmspr9B1r1nKySDReA37Z1": [
+        {
+            "neighbor": "5DHejjQuintpUWx7uNp9881XnuroEQyWhGEJLSrRxhr3H2SU",
+            "event": {
+                "coldkey_source": "5DHejjQuintpUWx7uNp9881XnuroEQyWhGEJLSrRxhr3H2SU",
+                "coldkey_destination": "5CMEwRYLefRmtJg7zzRyJtcXrQqmspr9B1r1nKySDReA37Z1",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 1084260196,
+                    "delegate_hotkey_destination": "5CXRfP2ekFhe62r7q3vppRajJmGhTi7vwvb2yr79jveZ282w",
+                    "block_number": 3354586
+                }
+            }
+        },
+        {
+            "neighbor": "5CAVJt5jLLUvuo3x1E2dEd5ghkjvnzFu6D62QFGpUnVkiQGE",
+            "event": {
+                "coldkey_destination": "5CAVJt5jLLUvuo3x1E2dEd5ghkjvnzFu6D62QFGpUnVkiQGE",
+                "coldkey_source": "5CMEwRYLefRmtJg7zzRyJtcXrQqmspr9B1r1nKySDReA37Z1",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 514049219,
+                    "delegate_hotkey_source": "5CXRfP2ekFhe62r7q3vppRajJmGhTi7vwvb2yr79jveZ282w",
+                    "block_number": 3354661
+                }
+            }
+        }
+    ],
+    "5HhTBh1MiCtAs9SJUkX4TqZNLt5WXrgNzGRA6eHw3M1bmVQg": [
+        {
+            "neighbor": "5ECTT1a2S25DfTrtPQ3azvmVpcCewhbCcLaWk5d72B9s43t7",
+            "event": {
+                "coldkey_source": "5HhTBh1MiCtAs9SJUkX4TqZNLt5WXrgNzGRA6eHw3M1bmVQg",
+                "coldkey_destination": "5ECTT1a2S25DfTrtPQ3azvmVpcCewhbCcLaWk5d72B9s43t7",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 1000000,
+                    "block_number": 3354598
+                }
+            }
+        }
+    ],
+    "5ECTT1a2S25DfTrtPQ3azvmVpcCewhbCcLaWk5d72B9s43t7": [
+        {
+            "neighbor": "5HhTBh1MiCtAs9SJUkX4TqZNLt5WXrgNzGRA6eHw3M1bmVQg",
+            "event": {
+                "coldkey_source": "5HhTBh1MiCtAs9SJUkX4TqZNLt5WXrgNzGRA6eHw3M1bmVQg",
+                "coldkey_destination": "5ECTT1a2S25DfTrtPQ3azvmVpcCewhbCcLaWk5d72B9s43t7",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 1000000,
+                    "block_number": 3354598
+                }
+            }
+        }
+    ],
+    "5CAVJt5jLLUvuo3x1E2dEd5ghkjvnzFu6D62QFGpUnVkiQGE": [
+        {
+            "neighbor": "5CMEwRYLefRmtJg7zzRyJtcXrQqmspr9B1r1nKySDReA37Z1",
+            "event": {
+                "coldkey_destination": "5CAVJt5jLLUvuo3x1E2dEd5ghkjvnzFu6D62QFGpUnVkiQGE",
+                "coldkey_source": "5CMEwRYLefRmtJg7zzRyJtcXrQqmspr9B1r1nKySDReA37Z1",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 514049219,
+                    "delegate_hotkey_source": "5CXRfP2ekFhe62r7q3vppRajJmGhTi7vwvb2yr79jveZ282w",
+                    "block_number": 3354661
+                }
+            }
+        }
+    ],
+    "5FjvZbR5Y3QYgpvtMcDSgs3gJQgjB1hT4CuYBPdF3HcRqiG1": [
+        {
+            "neighbor": "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ",
+            "event": {
+                "coldkey_source": "5FjvZbR5Y3QYgpvtMcDSgs3gJQgjB1hT4CuYBPdF3HcRqiG1",
+                "coldkey_destination": "5GZSAgaVGQqegjhEkxpJjpSVLVmNnE2vx2PFLzr7kBBMKpGQ",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 24999999000,
+                    "delegate_hotkey_destination": "5FFApaS75bv5pJHfAp2FVLBj9ZaXuFDjEypsaBNc1wCfe52v",
+                    "block_number": 3354668
+                }
+            }
+        },
+        {
+            "neighbor": "5GzHb1s2jU3dAczjCKwujyoqJgz4ViYwTFmmkF99abJz4C9y",
+            "event": {
+                "coldkey_source": "5FjvZbR5Y3QYgpvtMcDSgs3gJQgjB1hT4CuYBPdF3HcRqiG1",
+                "coldkey_destination": "5GzHb1s2jU3dAczjCKwujyoqJgz4ViYwTFmmkF99abJz4C9y",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 10000000000,
+                    "block_number": 3354719
+                }
+            }
+        }
+    ],
+    "5DFuMmEqQqhMACJoJkChJggAAoaqHvWzAqCLnTgnBNunGVba": [
+        {
+            "neighbor": "5CihujuvdaGA5S2gR43E7UtatDCNQJUh74ktwtA3EdojC9W2",
+            "event": {
+                "coldkey_source": "5DFuMmEqQqhMACJoJkChJggAAoaqHvWzAqCLnTgnBNunGVba",
+                "coldkey_destination": "5CihujuvdaGA5S2gR43E7UtatDCNQJUh74ktwtA3EdojC9W2",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 259466327,
+                    "block_number": 3354673
+                }
+            }
+        }
+    ],
+    "5CihujuvdaGA5S2gR43E7UtatDCNQJUh74ktwtA3EdojC9W2": [
+        {
+            "neighbor": "5DFuMmEqQqhMACJoJkChJggAAoaqHvWzAqCLnTgnBNunGVba",
+            "event": {
+                "coldkey_source": "5DFuMmEqQqhMACJoJkChJggAAoaqHvWzAqCLnTgnBNunGVba",
+                "coldkey_destination": "5CihujuvdaGA5S2gR43E7UtatDCNQJUh74ktwtA3EdojC9W2",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 259466327,
+                    "block_number": 3354673
+                }
+            }
+        }
+    ],
+    "5FKWsPkP77qVfHL7rEVfdDJ9aadut8BeKnsZUhW311UUMxhL": [
+        {
+            "neighbor": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+            "event": {
+                "coldkey_source": "5FKWsPkP77qVfHL7rEVfdDJ9aadut8BeKnsZUhW311UUMxhL",
+                "coldkey_destination": "5Ck5g3MaG7Ho29ZqmcTFgq8zTxmnrwxs6FR94RsCEquT6nLy",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 3496250990,
+                    "delegate_hotkey_destination": "5Hddm3iBFD2GLT5ik7LZnT3XJUnRnN8PoeCFgGQgawUVKNm8",
+                    "block_number": 3354681
+                }
+            }
+        }
+    ],
+    "5E9VQ4Z13Vkpc3MboTFdabCkoUtYpUKXhZayQJWaaxFUZcpt": [
+        {
+            "neighbor": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+            "event": {
+                "coldkey_source": "5E9VQ4Z13Vkpc3MboTFdabCkoUtYpUKXhZayQJWaaxFUZcpt",
+                "coldkey_destination": "5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 23616864463,
+                    "delegate_hotkey_destination": "5HNQURvmjjYhTSksi8Wfsw676b4owGwfLR2BFAQzG7H3HhYf",
+                    "block_number": 3354711
+                }
+            }
+        }
+    ],
+    "5EvnXAroR6mdSoZ6y3f9qQKSYfN9wBrpjiKNsZ4oLBpRiNxb": [
+        {
+            "neighbor": "5G1KeLg1rda5kBZ9pWVnpAe3y4RwRRphcVxuY5mukLFStJhj",
+            "event": {
+                "coldkey_source": "5EvnXAroR6mdSoZ6y3f9qQKSYfN9wBrpjiKNsZ4oLBpRiNxb",
+                "coldkey_destination": "5G1KeLg1rda5kBZ9pWVnpAe3y4RwRRphcVxuY5mukLFStJhj",
+                "category": "staking",
+                "type": "add",
+                "evidence": {
+                    "rao_amount": 172914000,
+                    "delegate_hotkey_destination": "5DvTpiniW9s3APmHRYn8FroUWyfnLtrsid5Mtn5EwMXHN2ed",
+                    "block_number": 3354726
+                }
+            }
+        }
+    ],
+    "5FyXRntezGitmDsPtUyAa6uYSDtgzsXZiUGfcXFiDN7abAoy": [
+        {
+            "neighbor": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+            "event": {
+                "coldkey_destination": "5FyXRntezGitmDsPtUyAa6uYSDtgzsXZiUGfcXFiDN7abAoy",
+                "coldkey_source": "5HBtpwxuGNL1gwzwomwR7sjwUt8WXYSuWcLYN6f9KpTZkP4k",
+                "category": "staking",
+                "type": "remove",
+                "evidence": {
+                    "rao_amount": 265000000,
+                    "delegate_hotkey_source": "5F4tQyWrhfGVcNhoqeiNsR6KjD4wMZ2kfhLj4oHYuyHbZAc3",
+                    "block_number": 3354793
+                }
+            }
+        }
+    ],
+    "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc": [
+        {
+            "neighbor": "5EX5ozdbVYZYCthGgnKWUk9p5HvDWaz4aD2r4dTngTsHi3oV",
+            "event": {
+                "coldkey_source": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+                "coldkey_destination": "5EX5ozdbVYZYCthGgnKWUk9p5HvDWaz4aD2r4dTngTsHi3oV",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 400000000,
+                    "block_number": 3354798
+                }
+            }
+        }
+    ],
+    "5EX5ozdbVYZYCthGgnKWUk9p5HvDWaz4aD2r4dTngTsHi3oV": [
+        {
+            "neighbor": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+            "event": {
+                "coldkey_source": "5D9yqdktoF6i79UMC2fNvFaH6BNNUKWTCfoBS3VKeMwVHZFc",
+                "coldkey_destination": "5EX5ozdbVYZYCthGgnKWUk9p5HvDWaz4aD2r4dTngTsHi3oV",
+                "category": "balance",
+                "type": "transfer",
+                "evidence": {
+                    "rao_amount": 400000000,
+                    "block_number": 3354798
+                }
+            }
+        }
+    ]
+}
